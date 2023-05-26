@@ -22,10 +22,13 @@ Here are some ideas to get you started:
  Empecé a estudiar la carrera de desarrollo de software por pura casualidad pero al ver lo que es posible con programación quedé fascinada con crear y perfeccionar programas, el proceso lo disfruto y me parece que es mi fuerte. También suelo ser muy sociable y no tengo ningún problema con trabajar en equipo.
  El único limitante que enfrento es que tengo una PC no tan moderna y puede trabajar con bastante lentitud.
  
-# 💬 Podés contactarme a través de mi Email: 
+# 💬Podés contactarme a través de mi Email: 
 
 # julietacabrera101@gmail.com
  
 ## O en mis redes Sociales:
- [Linkedin](https://www.linkedin.com/in/julietanightcode/)
- [Instagram](https://www.instagram.com/julieta.bsf/)
+
+° [Linkedin](https://www.linkedin.com/in/julietanightcode/)
+ 
+° [Instagram](https://www.instagram.com/julieta.bsf/)
+
