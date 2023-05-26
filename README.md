@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hola 👋, Me llamo Julieta:
-#### Estoy estudiando segundo año en la carrera de Desarrolo De Software en [INCuyo] (https://incuyo.edu.ar/)
+#### Estoy estudiando segundo año en la carrera de Desarrolo De Software en [INCuyo](https://incuyo.edu.ar/)
 ##### En este momento estoy aprendiendo Python y Java, junto con SQL!
 
 ° Me interesa el desarrollo de videojuegos y todo lo relacionado con Backend y base de datos. 
