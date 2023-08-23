@@ -14,18 +14,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hola 👋, Me llamo Julieta:
+😄 Pronombres: Ella
 #### Estoy estudiando segundo año en la carrera de Desarrolo De Software en [INCuyo](https://incuyo.edu.ar/)
 ##### En este momento estoy aprendiendo Python y Java, junto con SQL!
-
-° Me interesa el desarrollo de videojuegos y todo lo relacionado con Backend y base de datos. 
 
 ° Vivo en Mendoza, Argentina.
 
 ° Me encantaría introducirme al mundo laboral y conocer nuevos desafíos.
 
-° Empecé a estudiar la carrera de desarrollo de software por pura casualidad pero al ver lo que es posible con programación quedé fascinada con crear y perfeccionar programas, el proceso lo disfruto y me parece que es mi fuerte. También suelo ser muy sociable y no tengo ningún problema con trabajar en equipo.
+° Me interesa el desarrollo de videojuegos y todo lo relacionado con backend e interfaces. 
 
-° El único limitante que enfrento es que tengo una PC no tan moderna y puede trabajar con bastante lentitud.
+° Suelo dedicar tiempo a crear modificaciones para juegos de Bethesda. Con herramientas como Construction Set (todavia algo noob).
+
+° Empecé a estudiar la carrera de desarrollo de software por pura curiosidad pero al ver lo que es posible con programación quedé fascinada con crear y estilizar programas, el proceso lo disfruto y me parece que es mi fuerte. También suelo soy muy sociable y no tengo ningún problema con el trabajo en equipo.
+
+° Mi único limitante es que mi PC maneja solo windows 7.
  
 # 💬Podés contactarme a través de mi Email: 
 
